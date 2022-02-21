@@ -1,0 +1,25 @@
+C:\Users\starkov_i\source\repos\STO_DB\STO_DB\bin\Debug\STO_DB.mdf
+C:\Users\starkov_i\source\repos\STO_DB\STO_DB\bin\Debug\STO_DB_log.ldf
+C:\Users\starkov_i\source\repos\STO_DB\STO_DB\bin\Debug\STO_DB.exe.config
+C:\Users\starkov_i\source\repos\STO_DB\STO_DB\bin\Debug\STO_DB.exe
+C:\Users\starkov_i\source\repos\STO_DB\STO_DB\bin\Debug\STO_DB.pdb
+C:\Users\starkov_i\source\repos\STO_DB\STO_DB\obj\Debug\STO_DB.csprojAssemblyReference.cache
+C:\Users\starkov_i\source\repos\STO_DB\STO_DB\obj\Debug\STO_DB.Form1.resources
+C:\Users\starkov_i\source\repos\STO_DB\STO_DB\obj\Debug\STO_DB.Properties.Resources.resources
+C:\Users\starkov_i\source\repos\STO_DB\STO_DB\obj\Debug\STO_DB.csproj.GenerateResource.cache
+C:\Users\starkov_i\source\repos\STO_DB\STO_DB\obj\Debug\STO_DB.csproj.CoreCompileInputs.cache
+C:\Users\starkov_i\source\repos\STO_DB\STO_DB\obj\Debug\STO_DB.exe
+C:\Users\starkov_i\source\repos\STO_DB\STO_DB\obj\Debug\STO_DB.pdb
+C:\Program Files\source\repos\STO_DB\STO_DB\bin\Debug\STO_DB.mdf
+C:\Program Files\source\repos\STO_DB\STO_DB\bin\Debug\STO_DB_log.ldf
+C:\Program Files\source\repos\STO_DB\STO_DB\bin\Debug\STO_DB.exe.config
+C:\Program Files\source\repos\STO_DB\STO_DB\bin\Debug\STO_DB.exe
+C:\Program Files\source\repos\STO_DB\STO_DB\bin\Debug\STO_DB.pdb
+C:\Program Files\source\repos\STO_DB\STO_DB\obj\Debug\STO_DB.csprojAssemblyReference.cache
+C:\Program Files\source\repos\STO_DB\STO_DB\obj\Debug\STO_DB.Form1.resources
+C:\Program Files\source\repos\STO_DB\STO_DB\obj\Debug\STO_DB.Properties.Resources.resources
+C:\Program Files\source\repos\STO_DB\STO_DB\obj\Debug\STO_DB.csproj.GenerateResource.cache
+C:\Program Files\source\repos\STO_DB\STO_DB\obj\Debug\STO_DB.csproj.CoreCompileInputs.cache
+C:\Program Files\source\repos\STO_DB\STO_DB\obj\Debug\STO_DB.exe
+C:\Program Files\source\repos\STO_DB\STO_DB\obj\Debug\STO_DB.pdb
+C:\Program Files\source\repos\STO_DB\STO_DB\obj\Debug\STO_DB.OrderForm.resources
